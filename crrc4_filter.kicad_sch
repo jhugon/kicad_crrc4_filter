@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 4d23ba31-61af-44fd-aa94-441371ec9e3d)
+
+  (paper "A4")
+
+  (title_block
+    (title "CRRC4 Filter")
+    (date "2022-03-03")
+    (rev "0.1")
+    (company "HugonLabs")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
